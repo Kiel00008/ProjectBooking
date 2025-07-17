@@ -90,7 +90,7 @@
     </style>
 
     <div class="register-header">
-        📝 Create Your Business Account
+        📝 Create Your Account
     </div>
 
     <div class="register-container">
