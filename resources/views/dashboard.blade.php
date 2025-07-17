@@ -222,7 +222,7 @@
         </div>
     </div>
 
-    <h1>Kiel's Booking System</h1>
+    <h1>Christian's Booking System</h1>
 
     <div class="stats">
         <div class="stat-box">
